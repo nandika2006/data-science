@@ -20,7 +20,7 @@ Step 5:  Save or export the filtered data if needed.
 
 # Coding and Output
 
-Activity 1:
+ACTIVITY 1:
   1.Write a Python program to select the 'name' and 'score' columns 
   ![image](https://github.com/user-attachments/assets/fc599926-d76e-4769-9e08-00d578df83e1)
 
@@ -48,6 +48,28 @@ Activity 1:
 
   d. Select columns 'name' and 'age'
   ![image](https://github.com/user-attachments/assets/5e93100d-225c-41dc-9e77-3905ddd8600e)
+
+ACTIVITY 2:
+ a.  select the rows where clients with primary education have subscribed to a deposit?
+ ![image](https://github.com/user-attachments/assets/b7177133-3699-4cd3-98b3-80141dbee050)
+
+ b.  select the rows where clients who have not subscribed to a deposit?
+ ![image](https://github.com/user-attachments/assets/b695727d-dbcc-4823-89d7-f79df7992376)
+
+ c. select the rows where clients who have subscribed to a deposit either have a housing or a personal loan?
+ ![image](https://github.com/user-attachments/assets/1aa85a28-8451-4e29-be18-07bb1286d0ee)
+ 
+ d. select the rows where clients with secondary education who have not subscribed to a deposit?
+ ![image](https://github.com/user-attachments/assets/d5de4621-b4a1-4012-8526-085e73134252)
+
+ e. select the rows where  clients who have subscribed to a term deposit as an outcome of the successful marketing campaign? 
+ ![image](https://github.com/user-attachments/assets/eca7abec-894a-4617-a44a-e9607f6e884b)
+
+ f. select the rows where unemployed clients who have not subscribed to deposit?
+ ![image](https://github.com/user-attachments/assets/932e3083-f5b2-4a79-ac0a-be2a889bbff2)
+
+ e. Select columns 'name' and 'salary' where age is less than or equal to 30:
+ ![image](https://github.com/user-attachments/assets/449218b2-59b1-490c-a8eb-ec21831d1f67)
 
 
 
