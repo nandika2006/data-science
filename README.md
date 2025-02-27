@@ -71,6 +71,9 @@ ACTIVITY 2:
  e. Select columns 'name' and 'salary' where age is less than or equal to 30:
  ![image](https://github.com/user-attachments/assets/449218b2-59b1-490c-a8eb-ec21831d1f67)
 
+# Result
+ Filtered the given data by the above questions or commands.
+
 
 
 
